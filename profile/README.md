@@ -33,8 +33,10 @@
 <h3>💻 구현 화면</h3>
 <div align="center">
 	<img src=https://github.com/ssg-ssak/.github/assets/99310356/c1cbd461-9954-4cac-ae63-f421a105182c />
-	
+	<h3><a href=https://github.com/orgs/ssg-ssak/repositories>소스코드 보러가기</a></h3>
 </div>
+<br>
+<br>
 </div>
 
  <h1>💡 Event Storming </h1>
