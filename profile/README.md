@@ -32,9 +32,8 @@
 <br>
 <h3>💻 구현 화면</h3>
 <div align="center">
-
-	<img src=https://github.com/ssg-ssak/.github/assets/99310356/3f715022-d687-467c-9614-051d0f33be64 />
-
+	<img src=https://github.com/ssg-ssak/.github/assets/99310356/c1cbd461-9954-4cac-ae63-f421a105182c />
+	
 </div>
 </div>
 
