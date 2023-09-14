@@ -28,10 +28,44 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <br>
-	
-<hr/>
 
 </div>
+<hr/>
+ <h1>💡 Event Storming </h1>
+ <ul>
+	 <li>신세계 포인트 앱을 개발하기 전 앱에 대한 분석이 필요</li>
+	 <li>분석을 토대로 USER 입장에서 USECASE를 정의</li>
+	 <li>USECASE 정의를 토대로 Event Storming을 제작</li>
+	 <li>Event Storming을 통해서 필요한 기능들을 정의</li>
+</ul>
+<br>
+<div>
+	<h5>Event Storming Image</h5>
+	<img src=https://github.com/ssg-ssak/.github/assets/99310356/77428175-0f81-45d2-8797-f087aa6b1c1c/>
+	<br>
+	<br>
+	<br>
+	<h3><a href=https://miro.com/app/board/uXjVMyZkHiY=/?share_link_id=200377205789>Event Storming 보러가기></a></h3>
+</div>
+
+<br>
+<hr>
+<h1>📊 ERD </h1>
+<ul>
+	 <li>Event Storming을 통해서 나온 기능들을 토대로 DB설계</li>
+	 <li>USER,CLUB,COUPON,EVENT DB를 독립적으로 분리를 함으로써 DB가 서로 참조하지 않게 설계</li>
+	 <li>독립적인 DB를 통해서 서비스 로직 또한 분리를 통해 하나의 서버가 다운되더라도 다른 서비스는 유지할 수 있도록 설계</li>
+</ul>
+<br>
+<div>
+	<h5>ERD Image</h5>
+	<img src=https://github.com/ssg-ssak/.github/assets/99310356/534cd652-7748-49ef-a775-edafbee6a539/>
+	<br>
+	<br>
+	<br>
+	<h3><a href=https://www.erdcloud.com/d/MuEJZmcHnriHcdguK>ERD 보러가기></a></h3>
+</div>
+
 
 
 
