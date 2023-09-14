@@ -73,8 +73,33 @@
 	<br>
 	<h3><a href=https://www.erdcloud.com/d/MuEJZmcHnriHcdguK>ERD 보러가기></a></h3>
 </div>
-
-
-
+<br>
+<br>
+<div>
+	<h2>팀원소개</h2>
+	<img src=https://github.com/ssg-ssak/.github/assets/99310356/5ea5dc57-34c9-488c-a3a8-d98144630df0 />
+</div>
+<h3>Front-end</h3>
+<h5>임찬섭(팀장):</h5>
+	<ul>
+		<li>홈,이벤트,로그인,마이포인트 구현</li>
+		<li>dlackstjq23@gmail.com </li>
+	</ul>
+<h5>김진성:</h5>
+<ul>
+	<li>혜택,라운지,회원정보,쓱포인트,고객센터,멤버십 구현</li>
+	<li>jskim4695@gmail.com</li>
+</ul>
+<h3>Back-end</h3>
+<h5>김동환:</h5>
+	<ul>
+		<li>유저,포인트,카드,가맹점,영수증,시큐리티,서버&DB CI/CD,데이터 크롤링 구현</li>
+		<li>sip0518@pusan.ac.kr </li>
+	</ul>
+<h5>이동희:</h5>
+<ul>
+	<li>클럽, 이벤트, 쿠폰, 약관동의여부, 고객센터 구현</li>
+	<li>kklee0930@gmail.com</li>
+</ul>
 
 
