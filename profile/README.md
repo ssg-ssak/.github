@@ -28,7 +28,12 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <br>
-
+<br>
+<br>
+<h3>💻 구현 화면</h3>
+<div align="center">
+	<img src=https://github.com/ssg-ssak/.github/assets/99310356/2c9b6be6-4a46-4652-977a-eb9d8c3f8b5d/>
+</div>
 </div>
 
  <h1>💡 Event Storming </h1>
