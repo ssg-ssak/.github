@@ -105,5 +105,9 @@
 	<li>담당기능 : 클럽, 이벤트, 쿠폰, 약관동의여부, 고객센터 구현</li>
 	<li>e-mail : kklee0930@gmail.com</li>
 </ul>
+<div>
+	<h2>팀 노션 주소</h2>
+	<a href="https://doit-develop.notion.site/ce8322be1391414f8bd6420d23a7f164?v=9a7e5722d12b491b9f42339bf4d6ebd0&pvs=4">노션 주소</a>
+</div>
 
 
