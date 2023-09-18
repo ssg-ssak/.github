@@ -33,6 +33,14 @@
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 <br>
 <br>
+
+<div>
+	<h2>🖱️ 프론트 배포 소스코드</h2>
+	<img width=300 height=300 src=https://github.com/ssg-ssak/.github/assets/99310356/c6a6f8b8-d8be-4e8c-a82c-fb5bd9de106c></img>
+</div>
+<a href="https://ssg-ssak-fe.vercel.app/">프론트 배포 사이트</a>
+<br>
+<br>
 <h3>💻 구현 화면</h3>
 <div align="center">
 	<img src=https://github.com/ssg-ssak/.github/assets/99310356/c1cbd461-9954-4cac-ae63-f421a105182c />
@@ -109,9 +117,6 @@
 	<h2>팀 노션 주소</h2>
 	<a href="https://doit-develop.notion.site/ce8322be1391414f8bd6420d23a7f164?v=9a7e5722d12b491b9f42339bf4d6ebd0&pvs=4">노션 주소</a>
 </div>
-<div>
-	<h2>프론트 배포 소스코드</h2>
-	<a href="https://ssg-ssak-fe.vercel.app/">프론트 배포 사이트</a>
-</div>
+
 
 
