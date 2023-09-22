@@ -40,6 +40,8 @@
 </div>
 <a href="https://ssg-ssak-fe.vercel.app/">프론트 배포 사이트</a>
 <br>
+홈페이지 : https://ssgssak.store.com
+<br>
 <br>
 <h3>💻 구현 화면</h3>
 <div align="center">
